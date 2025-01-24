@@ -4,6 +4,7 @@
 using namespace std;
 
 enum Days { Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday };
+// Enumerations (enums) are user-defined data types that consists of integral constants.
 
 int main() {
     Days today = Saturday;
